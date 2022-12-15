@@ -495,11 +495,240 @@ body{
     }
 }
 
+@media only screen and (min-width: 376px) and (max-width: 768px) {
+
+    body{
+        width: 768px;
+        height: 1715px;
+    }
+
+    .box1{
+        position:absolute;
+        width: 688px;
+        height: 48px;
+        left: 35px;
+        top: 152px;
+        margin: 0 0 709px 0;
+    }
+
+    .text__Label1{
+        width: 688px;
+        height: 48px;
+        margin: 20px 0 0 6px;
+        padding: 28px 0 0 0;
+        font-size: 32px;
+    }
+
+    .text__Convert{
+        width: 688px;
+        height: 360px;
+        margin: 40px 0 0 6px;
+    }
+    
+    .text__Label2{
+        width: 688px;
+        top: 540px;
+        height: 18px;
+        left: 0px;
+        font-size: 20px;
+    }
+
+    .logoExclamacion{
+        position: absolute;
+        left: 0;
+        top: 540px;
+        padding: 17px 0 5px 0;
+    }
+
+    .encriptar{
+        position: absolute;
+        top: 580px;
+        left: 7px;
+        width: 343px;
+        height: 67px;
+    }
+
+    .desencriptar{
+        position: absolute;
+        top: 580px;
+        left: 7px;
+        width: 343px;
+        height: 67px;
+        margin: 34px 0 0 358px;
+    }
+
+    .box2 {
+        position: absolute;
+        width: 678px;
+        height: 760px;
+        left: 40px;
+        top: 880px;
+        margin: 0 0 42px 0;
+    }
+
+    .text__label3{
+        position: absolute;
+        width: 628px;
+        height: 650px;
+        left: 12px;
+        top: 5px;
+    }
+
+    .logo__Muneco{
+        margin: 120px 0 0 140px;
+    }
+    
+    .mess1{
+        position: absolute;
+        top: 470px;
+        width: 608px;
+        height: 16px;
+        margin: -20px 5px 0 12px;
+        font-size: 34px;
+    }
+    
+    .mess2{
+        position: absolute;
+        top: 550px;
+        width: 608px;
+        height: 16px;
+        margin: -20px 5px 0 12px;
+        font-size: 34px;
+    }
+    
+    .text__copiar{
+        width: 668px;
+        height: 67px;
+        left: 10px;
+        top: 660px;
+    }
+
+    .copyright{
+        width: 688px;
+        height: 28px;
+        left: 20px;
+        top: 1670px;
+        font-size: 16px;
+        margin: 0 0 0 20px;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1020px) {
+    body{
+        width: 1024px;
+        height: 1715px;
+    }
+
+    .box1{
+        position:absolute;
+        width: 944px;
+        height: 48px;
+        left: 40px;
+        top: 152px;
+        margin: 0 0 709px 0;
+    }
+
+    .text__Label1{
+        width: 938px;
+        height: 48px;
+        margin: 20px 0 0 6px;
+        padding: 28px 0 0 0;
+        font-size: 39px;
+    }
+
+    .text__Convert{
+        width: 938px;
+        height: 360px;
+        margin: 40px 0 0 6px;
+    }
+    
+    .text__Label2{
+        width: 938px;
+        top: 540px;
+        height: 18px;
+        left: 0px;
+        font-size: 26px;
+    }
+
+    .logoExclamacion{
+        position: absolute;
+        left: 0;
+        top: 540px;
+        padding: 17px 0 5px 0;
+    }
+
+    .encriptar{
+        position: absolute;
+        top: 580px;
+        left: 7px;
+        width: 450px;
+        height: 67px;
+    }
 
+    .desencriptar{
+        position: absolute;
+        top: 580px;
+        left: 7px;
+        width: 450px;
+        height: 67px;
+        margin: 34px 0 0 480px;
+    }
 
+    .box2 {
+        position: absolute;
+        width: 938px;
+        height: 760px;
+        left: 40px;
+        top: 880px;
+        margin: 0 0 42px 0;
+    }
 
+    .text__label3{
+        position: absolute;
+        width: 880px;
+        height: 650px;
+        left: 16px;
+        top: 5px;
+    }
 
+    .logo__Muneco{
+        margin: 120px 0 0 240px;
+    }
+    
+    .mess1{
+        position: absolute;
+        top: 470px;
+        width: 880px;
+        height: 16px;
+        margin: -38px 5px 0 12px;
+        font-size: 38px;
+    }
+    
+    .mess2{
+        position: absolute;
+        top: 550px;
+        width: 680px;
+        height: 16px;
+        margin: -20px 5px 0 102px;
+        font-size: 38px;
+    }
+    
+    .text__copiar{
+        width: 860px;
+        height: 67px;
+        left: 42px;
+        top: 660px;
+    }
 
+    .copyright{
+        width: 988px;
+        height: 28px;
+        left: 22px;
+        top: 1670px;
+        font-size: 22px;
+        margin: 0 0 0 20px;
+    }
+}
 
 
 
@@ -605,6 +834,12 @@ body{
 
 
 
+
+
+
+
+
+ */
 
 
 
